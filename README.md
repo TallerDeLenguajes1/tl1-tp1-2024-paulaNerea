@@ -29,6 +29,10 @@ Las entradas en este archivo pueden seguir un modelo similar. Se utilizan los si
 
 - ```#``` se usa para añadir comentarios al archivo ```.gitignore```.
 
+```
+# Esto es un comentario
+```
+
 ## Autor ✒️
 
 - Leal Villanueva Paula Nerea
