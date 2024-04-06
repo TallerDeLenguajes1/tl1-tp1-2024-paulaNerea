@@ -1,6 +1,6 @@
 # tl1-tp1-2024-paulaNerea
 
-# Archivo .gitignore 📝​
+# 2.a Archivo .gitignore 📝​
 _Omitir archivos o carpetas que no necesitamos en un repositorio es clave para el correcto funcionamiento del mismo, esto podemos hacerlo creando un archivo .gitignore._
 
 ## ¿Qué es?
@@ -32,6 +32,20 @@ Las entradas en este archivo pueden seguir un modelo similar. Se utilizan los si
 ```
 # Esto es un comentario
 ```
+
+# 3.g Repaso de punteros 📋
+
+El **puntero** es una variable que contiene la direccion de memoria de la variable a la que está "apuntando". Es por esto que se obtiene el mismo valor en los apartados 2 y 3 de punto anterior al hacer:  
+
+```
+    printf("Direccion de memoria almacenada por el puntero: %p\n", puntero);
+    printf("Direccion de memoria de la variable: %p\n", &variable);
+```
+
+El **puntero** tiene su propia direcicon de memoria, pues es una variable, por lo que no es lo mismo la memoria del puntero y la memoria que este almacena(memoria de la variable a la que apunta).   
+
+
+
 
 ## Autor ✒️
 
